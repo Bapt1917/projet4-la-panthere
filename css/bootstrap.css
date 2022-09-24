@@ -4495,7 +4495,7 @@ tbody.collapse.in {
 }
 
 .btn-group>.btn:first-child {
-    margin-left: 0
+    margin-left: 0;
 }
 
 .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle) {
@@ -5109,7 +5109,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
         overflow: visible !important
     }
     .navbar-collapse.in {
-        overflow-y: visible
+        overflow-y: visible;
     }
     .navbar-fixed-bottom .navbar-collapse,
     .navbar-fixed-top .navbar-collapse,
@@ -5231,7 +5231,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     display: block;
     width: 22px;
     height: 2px;
-    border-radius: 1px
+    border-radius: 1px;
 }
 
 .navbar-toggle .icon-bar+.icon-bar {
@@ -7682,7 +7682,6 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
