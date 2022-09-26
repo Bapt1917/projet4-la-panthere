@@ -684,10 +684,7 @@ p {
     font-size: 11px;
 }
 
-.tight-width-whitespace {
-    max-width: 600px;
-    margin: auto;
-}
+
 
 .h1 {
     font-size: 20px;
@@ -779,7 +776,11 @@ h4 {
 }
 
 .tc-white {
-    color: white;
+    color: #F3976C!important;
+}
+
+.tc-white-2 {
+    color: white !important;
 }
 
 .btn-atomic-tangerine {
