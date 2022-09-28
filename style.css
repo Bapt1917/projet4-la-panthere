@@ -11,6 +11,8 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    background: transparent;
+    box-shadow: none;
 }
 
 a:hover {
@@ -475,7 +477,7 @@ button {
 .btn-clean {
     border: 1px solid rgba(0, 0, 0, .08);
     border-bottom-color: rgba(0, 0, 0, .1);
-    text-shadow: 0 1px 0 rgb(0, 0, 1);
+    text-shadow: 0 2px 0 rgb(0, 0, 1);
     box-shadow: 0 1px 3px rgba(0, 0, 1, .25), inset 0 1px 0 0 rgba(255, 255, 255, .15);
 }
 
@@ -790,6 +792,8 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    font-size: 20px;
+    font-weight: bolder;
 }
 
 .btn-atomic-tangerine:hover {
