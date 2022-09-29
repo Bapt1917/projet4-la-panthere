@@ -824,8 +824,16 @@ h4 {
     border-color: #364577!important;
 }
 
-.fontsize15 {
+.fontsize20 {
     font-size: 20px;
+}
+.fontsize18 {
+    font-size: 18px;
+}
+.padding-text {
+ padding-left: 10%;
+ padding-right: 10%;
+ margin-bottom:40px;
 }
 
 .absolute {
