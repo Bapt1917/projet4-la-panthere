@@ -23,6 +23,10 @@ a:hover {
     cursor: pointer;
 }
 
+a:hover {
+    border: 1px solid black;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
