@@ -774,6 +774,9 @@ h4 {
     margin-bottom: 24px;
     width:100%;
 }
+.portfolio-thumb:focus {
+    border: 1px solid black;
+}
 
 .portfolio-row {
     margin-bottom: 44px;
