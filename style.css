@@ -265,6 +265,10 @@ font-size:1px;
     color: rgba(0, 0, 0, 1);
 }
 
+.icon-md:focus {
+    border: 1px solid black;
+}
+
 .l-bloc .navbar-toggle .icon-bar {
     color: rgba(0, 0, 0, .6);
 }
