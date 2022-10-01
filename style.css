@@ -856,6 +856,10 @@ h4 {
 .fontsize20 {
     font-size: 20px;
 }
+
+.contrast {
+    text-shadow: 1px 1px 2px black;
+}
 .fontsize18 {
     font-size: 18px;
 }
